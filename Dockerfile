@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM arm32v6/alpine:3.5
 MAINTAINER Kevin Eye <kevineye@gmail.com>
 
 RUN echo http://dl-cdn.alpinelinux.org/alpine/edge/testing >> /etc/apk/repositories \
