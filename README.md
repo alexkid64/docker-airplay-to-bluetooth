@@ -1,4 +1,4 @@
-AirPlay music to a Bluetooth speaker.
+AirPlay music to a Bluetooth speaker using a raspberry pi.
 
 [![](https://images.microbadger.com/badges/image/kevineye/airplay-to-bluetooth.svg)](https://microbadger.com/images/kevineye/airplay-to-bluetooth "Get your own image badge on microbadger.com")
 
